@@ -1,0 +1,11 @@
+#lores:         check for the word in the lore of item that is placed on the enchant table or anvil
+#[lore name]:   vanilla enchantment name (see https://www.digminecraft.com/lists/enchantment_list_pc.php)
+#               for black font in paraphrases
+
+lores:
+  LIFESTEAL:
+    - unbreaking
+    - sharpness
+  FROST_ASPECT:
+    - fire_aspect
+    - sweeping

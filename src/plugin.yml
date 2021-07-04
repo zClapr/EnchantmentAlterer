@@ -1,0 +1,8 @@
+name: EnchantmentAlterer
+main: com.smoothley.enchalterer.main
+author: Smoothley
+version: 1.0.0
+commands:
+  enchantalter:
+    aliases: [ea]
+    description: reload only
